@@ -1,2 +1,3 @@
-Hello World! Change from dev!
-Second line
+
+Hello World! Сhanges from 1002_fix
+
